@@ -1,0 +1,8 @@
+openai>=1.0.0
+anthropic>=0.20.0
+datasets>=2.14.0
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+asyncio
+aiohttp>=3.8.0
